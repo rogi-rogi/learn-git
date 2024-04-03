@@ -12,7 +12,6 @@
 git add 파일명
 ```
 
-
 <br>
 
 ### Staging Area
@@ -20,6 +19,10 @@ git add 파일명
 ```Working Directory```에서 ```add```된 변경 데이터에 대한 이력을 기록하기 위해 모아둔 공간.
 
 ```commit```을 하면```.git```폴더 내 ```index```에 기록된다.
+
+```bash
+git status [파일명]
+```
 
 <br>
 
